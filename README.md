@@ -32,7 +32,7 @@ Sigue estos pasos para construir y ejecutar la aplicación utilizando Docker:
    Ejecuta el contenedor de Docker:
 
    ```bash
-   docker run -p 3000:3000 nestjs-app
+   docker run -p 3000:3000 clima-app-backend
    ```
 
    Esto expondrá la aplicación en el puerto 3000 de tu máquina local.
